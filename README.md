@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey! I'm Jeff!
+
+:computer: Full Stack Web Developer based in Toronto, ON
+🔭 I’m currently working on Chrome Extensions to reduce distractions on social media platforms
+
 [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajeff&hide=contribs,stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wajeff/wajeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
