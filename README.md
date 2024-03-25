@@ -1,4 +1,4 @@
-### 💫 Hey! I'm Jeff:
+### 💫 Hey! I'm Jeff
 💻 Full Stack Web Developer based in Toronto, ON<br>
 💞 Passionate about using computers to create a better and more accessible world for all!<br>
 🔭 I’m currently working on Chrome Extensions to reduce distractions on social media platforms
