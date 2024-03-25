@@ -1,6 +1,6 @@
 ### Hey! I'm Jeff!
 
-:computer: Full Stack Web Developer based in Toronto, ON
+:computer: Full Stack Web Developer based in Toronto, ON </br>
 🔭 I’m currently working on Chrome Extensions to reduce distractions on social media platforms
 
 [![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=wajeff&hide=contribs,stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
