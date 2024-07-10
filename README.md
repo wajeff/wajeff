@@ -7,6 +7,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffery-wang-973466300) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WangWajeffto) 
 
+# Projects:
+| Humanity in Music | Heang's Hair Salon |
+| ------------- | ------------- |
+|![chrome-capture-2024-7-10 (6)](https://github.com/wajeff/wajeff/assets/63879504/1ba7e0f0-8172-4894-9cd3-f6dffd439bae)|![chrome-capture-2024-7-10 (8) (1)](https://github.com/wajeff/wajeff/assets/63879504/5df062e0-b2e5-4a71-be58-798a87a4492d)|
+
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
