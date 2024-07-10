@@ -5,7 +5,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jeffery-wang-973466300) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WangWajeffto) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wajeff/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/WangWajeffto) 
 
 # Projects:
 | Humanity in Music | Heang's Hair Salon |
