@@ -1,6 +1,6 @@
 ### 💫 Hey! I'm Jeff
 💻 Full Stack Web Developer based in Toronto, ON<br>
-💞 Passionate about building intuitive, useful, beautiful and accessible tech
+💞 Passionate about building intuitive, useful, beautiful and accessible tech <br>
 🔭 I'm currently working a digital lease creator for the Toronto real estate market
 
 
